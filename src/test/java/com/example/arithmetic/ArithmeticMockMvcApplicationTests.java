@@ -1,0 +1,12 @@
+package com.example.arithmetic;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ArithmeticMockMvcApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+}
